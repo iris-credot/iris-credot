@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - JavaScript 💻
 - Java ☕
 - JSON 📄
-- - React.js ⚛️
+- React.js ⚛️
 - Node.js 🚀
 - Express.js 🚂
-- - MySQL 🛢️
+- MySQL 🛢️
 - MongoDB 🍃
-- - Visual Studio Code 🖥️
+- Visual Studio Code 🖥️
 - Git 🌳
 
