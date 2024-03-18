@@ -13,4 +13,16 @@ Here are some ideas to get you started:
  LinkedIn 💼     [Connect with Me on LinkedIn](https://www.linkedin.com/in/teta-iris-credot-907281280/) 
  Medium ✍️       [Follow Me on Medium](https://medium.com/@tetairiscredot/)
 # Languages and Tools.
+- HTML5 🌐
+- CSS3 🎨
+- JavaScript 💻
+- Java ☕
+- JSON 📄
+- - React.js ⚛️
+- Node.js 🚀
+- Express.js 🚂
+- - MySQL 🛢️
+- MongoDB 🍃
+- - Visual Studio Code 🖥️
+- Git 🌳
 
