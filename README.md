@@ -1,8 +1,8 @@
 # Hi there 👋 I am  TETA IRIS CREDOT. 
-[Personal Portfolio](https://tetairiscredot.netlify.app/)
+[Personal Portfolio](https://tetairiscredot.netlify.app/)✨
 
 
-**iris-credot/iris-credot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iris-credot** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
