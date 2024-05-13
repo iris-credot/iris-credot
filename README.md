@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TETA IRIS CREDOT</h1>
 <h3 align="center">A Software Developer and Engineer who likes to transform ideas into reality.</h3>
-<img align="right" alt="Coding" width="300" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDQ2MXZvYTZzZTA3MTJmcmM1bTQ2ZjQzNzlqZXlnOXJiY3B1OWMwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDQ2MXZvYTZzZTA3MTJmcmM1bTQ2ZjQzNzlqZXlnOXJiY3B1OWMwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iris-credot&label=Profile%20views&color=0e75b6&style=flat" alt="iris-credot" /> </p>
 
 - 🌱 I’m currently a student **at the University of Rwanda in Computer and Software Engineering.**
