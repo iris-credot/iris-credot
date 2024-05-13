@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TETA IRIS CREDOT</h1>
 <h3 align="center">A Software Developer and Engineer who likes to transform ideas into reality.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif%20girl&imgurl=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FNgurY1o4z080Jfoyzw%2Fgiphy.gif%3Fcid%3D6c09b952cggv6u7e8j5nw77w1u0hr458fsmtvctuc4sz3j1y%26ep%3Dv1_internal_gif_by_id%26rid%3Dgiphy.gif%26ct%3Ds&imgrefurl=https%3A%2F%2Fgiphy.com%2Fstickers%2Ftransparent-NgurY1o4z080Jfoyzw&docid=pH-_eBLPUhla0M&tbnid=uQzxGDGmRns-yM&vet=12ahUKEwjq_YKqyIqGAxUXhP0HHQS8CUsQM3oECH4QAA..i&w=480&h=480&hcb=2">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Ftransparent-NgurY1o4z080Jfoyzw&psig=AOvVaw1v62JpS2i-ptikxdrSakkG&ust=1715688029554000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjXpo_KioYDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iris-credot&label=Profile%20views&color=0e75b6&style=flat" alt="iris-credot" /> </p>
 
 - 🌱 I’m currently a student **at the University of Rwanda in Computer and Software Engineering.**
