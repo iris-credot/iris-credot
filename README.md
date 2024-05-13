@@ -1,6 +1,6 @@
 # Hi there 👋 I am  TETA IRIS CREDOT. 
 [Personal Portfolio](https://tetairiscredot.netlify.app/)✨ <br>
-![Profile views](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20views&query=%24.total&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Firis-credot%2Freadme)
+![Profile views](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20views&query=%24.total&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Firis-credot%2Firis-credot)
 
 A Software Developer and Engineer who likes to transform ideas into reality.
 - 🔭 I’m  a Software developer specialized in Back-End Development.
