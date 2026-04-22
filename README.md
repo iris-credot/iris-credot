@@ -29,7 +29,7 @@
 <!-- ===================== LANGUAGES & TOOLS ===================== -->
 <h2 align="center">🛠️ Languages & Tools</h2>
 
-<table align="">
+<table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td>
