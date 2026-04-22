@@ -31,8 +31,8 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=dart" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=flutter" /></td>
   </tr>
@@ -45,7 +45,7 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" /></td>
   </tr>
 </table>
