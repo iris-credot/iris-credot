@@ -29,29 +29,26 @@
 <!-- ===================== LANGUAGES & TOOLS ===================== -->
 <h2 align="center">🛠️ Languages & Tools</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=android,cpp,css,dart,flutter" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,html" />
-</p>
-
-<br/>
-
-<!-- ===================== OPTIONAL COMPACT VERSION ===================== -->
-<!-- Use this instead if you prefer everything in one line -->
-
-<!--
-<h2 align="center">🛠️ Languages & Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=android,cpp,css,dart,flutter,js,ts,nodejs,express,mongodb,git,html" />
-</p>
--->
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dart" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=android" /></td>
+  </tr>
+</table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iris-credot&show_icons=true&locale=en&layout=compact" alt="iris-credot" /></p>
 
