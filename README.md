@@ -46,7 +46,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=android" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" /></td>
   </tr>
 </table>
 
